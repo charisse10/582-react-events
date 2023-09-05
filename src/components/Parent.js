@@ -1,10 +1,10 @@
 import Child from "./Child";
 const testArray = ["one", "two", "three"];
 const testArrayOfObjects = [
-    { id: 1, name: "one" },
-    { id: 2, name: "two" },
-    { id: 3, name: "three" },
-    
+    { id: 1, name: "one", item: [1, 1, 1] },
+    { id: 2, name: "two", item: [2, 2, 2] },
+    { id: 3, name: "three", item: [3, 3, 3]},
+
 
 ]
 
